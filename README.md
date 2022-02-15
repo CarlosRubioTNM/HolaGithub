@@ -24,4 +24,4 @@ Algunos comandos de git son:
  
  El enlace de este readme está [aquí](https://github.com/CarlosRubioTNM/HolaGithub/edit/main/README.md)
  
- ![Imagen del ITCH2]()
+ ![Imagen del ITCH2](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Google_logo_%282010-2013%29.svg/1280px-Google_logo_%282010-2013%29.svg.png)
